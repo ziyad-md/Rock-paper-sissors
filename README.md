@@ -1,0 +1,1 @@
+After a long time I was just wondering what to work on. I was bit bored and tried to work with random numbers, what else I could come up with! Whatever, just made a silly one, may upgrade it later in proper way. It would be great if you have advice for me!
